@@ -19,7 +19,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'  # 본인 Node 버전에 맞게
+          node-version: '22'  # Vite 최신 버전은 Node 20.19+ 또는 22.12+ 필요
       
       - name: Install dependencies
         run: npm install
