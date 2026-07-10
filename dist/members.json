@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "imgUrl": "https://i.namu.wiki/i/HUR_O0KDzS8I48dQa1T3rBtJeUcYXOxnU96D6CVqH3emLqv_8IcKFc0vsici-LVW6baWkGYtBiiPb3NaOhBe5VpgFK6qIpePdwlImHveCOPjXkkv4ey1ENmp1-Qcv9KjGfpXYNmwd-7vrw5V7_4Mkw.webp",
+    "name": "원이",
+    "group": "리센느",
+    "position": "리더",
+    "backImgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfcLp9cbCou2aMfk8fiGh1tqzNOe_lbtyjvi5Oa3GuWRCmclK6nqShJ96V&s=10",
+    "nickname": "거제 파이리"
+  },
+  {
+    "id": 2,
+    "name": "리브",
+    "group": "리센느",
+    "position": "메인보컬",
+    "imgUrl": "https://i.namu.wiki/i/9383fBkojsnPB0fOokKd_ZiCEY9FqsMlyXRPglXAeBaOxGawprmw9C7iORA1NQgwPUTMx0po7B_CcICaP4_zsTO9IakTbEGMQaEQiPH_OoG8pD3g4bL5vH2u_43ak94JvteOXFDdtbcBcSjRkLgjRg.webp",
+    "nickname": "리트",
+    "backImgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2PzeL3OnU4gjsUXVwouAwbj4jKCxftjnG3fmsc8nLVkn1ja743VZMjv4&s=10"
+  },
+  {
+    "id": 3,
+    "name": "미나미",
+    "group": "리센느",
+    "position": "메인보컬, 메인댄서",
+    "imgUrl": "https://i.namu.wiki/i/0g8a3CXUK6oIEgdFDi5L525PQ0gFLWJVVm63lMZ8bnlHaYnRUQ2vp8CfZ4_19DIhb6xO_90SsEnKi7gbVIlzuHk3VDDams-hhiZb1JXQUwE0x74KdZQ_og2cXa12KZdwXq_5k3mNqYqQfq8ll8g27Q.webp",
+    "nickname": "갸루귀신",
+    "backImgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFJyU-op0dstUT02x4FAdEtfMsY-0Xcpa5hHbGFuXM1w&s=10"
+  },
+  {
+    "id": 4,
+    "name": "메이",
+    "group": "리센느",
+    "position": "보컬",
+    "imgUrl": "https://i.namu.wiki/i/1RNf8mp244cmxNXr9PI69BMolfp8l3USneER7rq9p_g7ITXn6l2gVGe-SCKaIFCfOYgsZwoPAtS_H8EKstunNChICAT-jIUfh6T88XdThRJGlrRv9BECnKRICIDClhyFve66hJgxmbHkSEOWAGWhNA.webp",
+    "nickname": "메트",
+    "backImgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2PzeL3OnU4gjsUXVwouAwbj4jKCxftjnG3fmsc8nLVkn1ja743VZMjv4&s=10"
+  },
+  {
+    "id": 5,
+    "name": "제나",
+    "group": "리센느",
+    "position": "센터",
+    "imgUrl": "https://i.namu.wiki/i/T756IqXO6Nm-o2Ru67FSxoUn71lYbZxBbwBexMx_IKL4Lq80fH2N_QDUQS3XUmsgDtRZQ-04rDLPVUKb24NwWDMJWIbKrB8ZfUMWRb0aqntiYNe5esHDXSYcVNFggMBSjAMjguPEJ2JCa8UcVnI2lQ.webp",
+    "nickname": "신라공주",
+    "backImgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwirJ8n94xGMoOn7nc7YY78vuWZ_UxqzBHNUS7HcLpFw&s"
+  }
+]
